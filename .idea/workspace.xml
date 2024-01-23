@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5daf7f65-b998-4578-a531-aa52d0749104" name="Changes" comment="Чистый">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5daf7f65-b998-4578-a531-aa52d0749104" name="Changes" comment="Добавлен файл для подгрузки библиотек" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,12 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705954762788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлен файл для подгрузки библиотек">
+      <option name="closed" value="true" />
+      <created>1706045980334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706045980334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало чего-то большого" />
     <MESSAGE value="Чистый" />
-    <option name="LAST_COMMIT_MESSAGE" value="Чистый" />
+    <MESSAGE value="Добавлен файл для подгрузки библиотек" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен файл для подгрузки библиотек" />
   </component>
 </project>
